@@ -1,0 +1,9 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.heading {
+  color: rgb(30, 30, 30);
+  text-align: center;
+}
