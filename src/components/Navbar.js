@@ -1,8 +1,8 @@
 import React from 'react';
-import { header, flex } from './Navbar.css';
+import './Navbar.css';
 
 const Navbar = () => (
-  <header className={header} />
+  <header className="header" />
 );
 
 export default Navbar;
