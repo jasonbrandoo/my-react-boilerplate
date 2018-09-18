@@ -7,7 +7,7 @@ const App = () => (
   <React.Fragment>
     <Navbar />
     <div className="container">
-      <h1 className="heading">My React Starter</h1>
+      <h1 className="heading">My React Boilerplate</h1>
     </div>
   </React.Fragment>
 );
